@@ -1,3 +1,9 @@
 body {
 
 }
+
+h1{
+    text-align: center;
+    background: rgb(221, 221, 221);
+    padding: 1rem;
+}
